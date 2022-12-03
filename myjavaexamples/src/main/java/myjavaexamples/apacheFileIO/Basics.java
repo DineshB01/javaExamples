@@ -1,4 +1,4 @@
-package myjavaexamples.src.main.java.myjavaexamples.apacheFileIO;
+package myjavaexamples.apacheFileIO;
 //import apache io packages
 import java.io.File;
 import java.io.IOException;
