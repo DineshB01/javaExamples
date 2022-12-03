@@ -1,4 +1,4 @@
-package myjavaexamples.src.main.java.myjavaexamples.Streams;
+package myjavaexamples.Streams;
 
 import java.util.Arrays;
 import java.util.List;
